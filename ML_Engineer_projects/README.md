@@ -6,7 +6,7 @@ Made of six blocks with each project translated in French & English, you will fi
 
 ### 1- Build & manage a data infrastructure
 
-* The Kayak project: data scraping to provide holidays recommendations
+* The Kayak project: data scraping to provide holidays recommendations :airplane:
 
 *Themes:* data scraping, SQL, AWS, cloud infrastructure, ETL, custom recommendation engine
 
@@ -14,13 +14,12 @@ Made of six blocks with each project translated in French & English, you will fi
 
 ### 2- Exploratory Data Analysis (EDA)
 
-* The Steam project: game sales EDA with Databricks
+* The Steam project: game sales EDA with Databricks :bar_chart:
 
 *Themes:* Databricks, pySpark, big data, EDA, business intelligence
+<br><br>
 
----
-
-* The Tinder project: dating events EDA with Python
+* The Tinder project: dating events EDA with Python :busts_in_silhouette:
 
 *Themes:* EDA, analytics
 
@@ -28,19 +27,17 @@ Made of six blocks with each project translated in French & English, you will fi
 
 ### 3- Machine Learning
 
-* The Walmart project: supervised ML to predict sales depending on economical factors
+* The Walmart project: supervised ML to predict sales depending on economical factors :shopping_cart:
 
 *Themes:* supervised ML, hyperparameter fine-tuning, sales
+<br><br>
 
----
-
-* The Conversion rate project: supervised ML for customer conversion
+* The Conversion rate project: supervised ML for customer conversion :email:
 
 *Themes:* supervised ML, hyperparameter fine-tuning
+<br><br>
 
----
-
-* The Uber project: unsupervised ML for pinpointing high demand zones
+* The Uber project: unsupervised ML for pinpointing high demand zones :taxi:
 
 *Themes:* unsupervised ML, geographical data
 
@@ -48,7 +45,7 @@ Made of six blocks with each project translated in French & English, you will fi
 
 ### 4- Deep learning
 
-* The AT&T project: deep learning for spam detection
+* The AT&T project: deep learning for spam detection :iphone:
 
 *Themes:* deep learning, NLP
 
@@ -56,7 +53,7 @@ Made of six blocks with each project translated in French & English, you will fi
 
 ### 5- Deployment
 
-* The GetAround project: deployment for car rental dashboards & API serving to predict rental prices
+* The GetAround project: deployment for car rental dashboards & API serving to predict rental prices :car:
 
 *Themes:* application deployment, dashboarding, API serving, machine learning
 
@@ -64,7 +61,7 @@ Made of six blocks with each project translated in French & English, you will fi
 
 ### 6- Lead a data project
 
-* WAKEE: computer vision to stay focused when living with ADHD
+* WAKEE: computer vision to stay focused when living with ADHD :smiley:
 
 *Themes:* computer vision, deep learning, prompt engineering, application deployment
 **Please note** this is only the first, "historical" part of WAKEE. It comes back as [WAKEE.reloaded](https://github.com/JeremyM174/WAKEE.reloaded)!

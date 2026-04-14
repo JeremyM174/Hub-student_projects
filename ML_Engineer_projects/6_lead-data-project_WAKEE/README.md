@@ -1,3 +1,5 @@
+> [!NOTE]
+> WAKEE on its own is the first, "historical" part of the project. It comes back as [WAKEE.reloaded](https://github.com/JeremyM174/WAKEE.reloaded) with the automation & orchestration of its machine learning!
 
 # **WAKEE: Work Assistant with Kindness & Emotional Empathy 🧠🤗**
 

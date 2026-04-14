@@ -6,7 +6,7 @@ Made of four blocks with each project translated in French & English, you will f
 
 ### 1- Data governance & strategy
 
-* The Spotify project: planning from a strategical level your data governance
+* The Spotify project: planning from a strategical level your data governance :headphones:
 
 *Themes:* data governance, GDPR, EU AI Act
 
@@ -14,7 +14,7 @@ Made of four blocks with each project translated in French & English, you will f
 
 ### 2- AI data architecture design
 
-* The Stripe project: designing an entire financial architecture
+* The Stripe project: designing an entire financial architecture :credit_card:
 
 *Themes:* data architecture, FinTech, SQL, noSQL, machine learning, business intelligence
 
@@ -22,7 +22,7 @@ Made of four blocks with each project translated in French & English, you will f
 
 ### 3- Data pipelines for AI
 
-* The Fraud detection project: building & orchestrating pipelines for fraud detection
+* The Fraud detection project: building & orchestrating pipelines for fraud detection :money_with_wings:
 
 *Themes:* data engineering, data pipelines, ETL, SQL, Docker
 
@@ -30,7 +30,7 @@ Made of four blocks with each project translated in French & English, you will f
 
 ### 4- AI solutions design, deployment and monitoring
 
-* [WAKEE.reloaded](https://github.com/JeremyM174/WAKEE.reloaded): computer vision to stay focused when living with ADHD, reloaded with start to end ML automation & orchestration
+* [WAKEE.reloaded](https://github.com/JeremyM174/WAKEE.reloaded): computer vision to stay focused when living with ADHD, reloaded with start to end ML automation & orchestration :smiley:
 
 *Themes:* computer vision, deep learning, prompt engineering, data engineering, data pipelines, application deployment, orchestration, monitoring, Docker, AWS, cloud infrastructure
 <br><br>
