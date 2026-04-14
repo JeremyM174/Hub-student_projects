@@ -1,10 +1,10 @@
 # <p align="center">:school_satchel: Hub: student projects with Jedha</p>
 
-Welcome to my hub dedicated to the student projects which led to my [certificates](https://github.com/JeremyM174/JeremyM174/tree/main/education) through Jedha's bootcamp!
+Welcome to my hub dedicated to the student projects which led to my [certificates](https://github.com/JeremyM174/JeremyM174/tree/main/education) with Jedha's bootcamp!
 
 Grouping all thirteen projects, these are divided amongst two folders:
 
-:wrench: The **AI Architect** focuses on data engineering (4 projects),
+:hammer_and_wrench: The **AI Architect** focuses on data engineering (4 projects),
 
 :triangular_ruler: The **ML engineer** focuses on data science (9 projects).
 
