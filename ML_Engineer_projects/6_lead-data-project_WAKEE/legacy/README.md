@@ -13,3 +13,5 @@ Recovering them, you will then be able to edit them using your favorite IDE. You
 * And finally the CNN training files.
 
 Happy coding! :rocket:
+
+![](../WAKEE_image.png)

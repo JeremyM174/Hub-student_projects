@@ -79,6 +79,7 @@ Made of six blocks with each project translated in French & English, you will fi
 
 *Themes:* computer vision, deep learning, prompt engineering, application deployment  
 **Please note** this is only the first, "historical" part of WAKEE. It comes back as [WAKEE.reloaded](https://github.com/JeremyM174/WAKEE.reloaded)!
-<br><br>
+
+![](6_lead-data-project_WAKEE/WAKEE_image.png)
 
 Have fun exploring these projects! :feet:

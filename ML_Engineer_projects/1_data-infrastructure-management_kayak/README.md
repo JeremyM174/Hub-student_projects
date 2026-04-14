@@ -5,7 +5,7 @@
 # <p align="center">Certification CDSD - bloc 1 infrastructure data: construction & alimentation :fr:</p>
 
 ### <p align="center">Jedha: projet Kayak (membre de Booking Holdings Inc.)</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Booking.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_Booking.jpg)
 
 *Tous droits intellectuels applicables appartiennent à leurs propriétaires respectifs. Le contenu ici présent est exclusivement mis à disposition dans le cadre du diplôme d'état RNCP35288 ou pour candidature à un emploi.*
 
@@ -31,7 +31,7 @@ Bonne exploration! :feet:
 # <p align="center">:uk: Build & manage a data infrastructure</p>
 
 ### <p align="center">Jedha: Kayak project (now part of Booking Holdings Inc.)</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Booking.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_Booking.jpg)
 
 *All applicable intellectual property rights belong to their rightful owners. The content herein displayed is exclusively provided for the sake of the French professional certification RNCP35288 or for job applications.*
 

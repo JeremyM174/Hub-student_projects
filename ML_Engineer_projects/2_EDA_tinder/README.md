@@ -5,7 +5,7 @@
 # <p align="center">Certification CDSD - bloc 2 EDA :fr:</p>
 
 ### <p align="center">Jedha: projet Tinder</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Tinder.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_Tinder.jpg)
 
 *Tous droits intellectuels applicables appartiennent à leurs propriétaires respectifs. Le contenu ici présent est exclusivement mis à disposition dans le cadre du diplôme d'état RNCP35288 ou pour candidature à un emploi.*
 
@@ -27,7 +27,7 @@ Bonne exploration! :feet:
 # <p align="center">:uk: Exploratory Data Analysis</p>
 
 ### <p align="center">Jedha: Tinder project</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Tinder.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_Tinder.jpg)
 
 *All applicable intellectual property rights belong to their rightful owners. The content herein displayed is exclusively provided for the sake of the French professional certification RNCP35288 or for job applications.*
 

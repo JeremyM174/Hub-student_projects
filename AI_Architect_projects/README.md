@@ -43,6 +43,7 @@ Made of four blocks with each project translated in French & English, you will f
 
 :smiley: [WAKEE.reloaded](https://github.com/JeremyM174/WAKEE.reloaded): computer vision to stay focused when living with ADHD, reloaded with start to end ML automation & orchestration  
 *Themes:* computer vision, deep learning, prompt engineering, data engineering, data pipelines, application deployment, orchestration, monitoring, Docker, AWS, cloud infrastructure
-<br><br>
+
+![](../ML_Engineer_projects/6_lead-data-project_WAKEE/WAKEE_image.png)
 
 Have fun exploring these projects! :feet:

@@ -5,7 +5,7 @@
 # <p align="center">Certification CDSD - bloc 3 Machine learning :fr:</p>
 
 ### <p align="center">Jedha: projet Uber</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Uber.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_Uber.jpg)
 
 *Tous droits intellectuels applicables appartiennent à leurs propriétaires respectifs. Le contenu ici présent est exclusivement mis à disposition dans le cadre du diplôme d'état RNCP35288 ou pour candidature à un emploi.*
 
@@ -25,7 +25,7 @@ Bonne exploration! :feet:
 # <p align="center">:uk: Machine learning</p>
 
 ### <p align="center">Jedha: Uber project</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_Uber.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_Uber.jpg)
 
 *All applicable intellectual property rights belong to their rightful owners. The content herein displayed is exclusively provided for the sake of the French professional certification RNCP35288 or for job applications.*
 

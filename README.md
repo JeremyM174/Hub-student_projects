@@ -12,4 +12,4 @@ Both folders have their own `README.md` files like this one to help you understa
 
 Have fun exploring this hub! :feet:
 
-![](/AI_Architect_projects/3_AI-data-pipelines_autofrauddetect/logos/Logo_Jedha.jpg)
+![](AI_Architect_projects/3_AI-data-pipelines_autofrauddetect/logos/Logo_Jedha.jpg)

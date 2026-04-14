@@ -5,7 +5,7 @@
 # <p align="center">Certification AIA - bloc 3 Conception & mise en œuvre de pipelines :fr:</p>
 
 ### <p align="center">Jedha: projet détection automatique de fraude</p>
-![](/logos/Logo_Jedha.jpg)
+![](logos/Logo_Jedha.jpg)
 
 Bienvenue dans mon repo dédié au projet de détection automatique de fraude, pour la certification AIA Jedha!
 
@@ -34,7 +34,7 @@ Bonne exploration! :feet:
 # <p align="center">:uk: Data pipelines for AI</p>
 
 ### <p align="center">Jedha: Automatic fraud detection project</p>
-![](/logos/Logo_Jedha.jpg)
+![](logos/Logo_Jedha.jpg)
 
 Welcome to my repository dedicated to the automatic fraud detection project, for Jedha's certification!
 

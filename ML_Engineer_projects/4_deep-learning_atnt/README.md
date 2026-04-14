@@ -5,7 +5,7 @@
 # <p align="center">Certification CDSD - bloc 4 Deep learning :fr:</p>
 
 ### <p align="center">Jedha: projet AT&T</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_ATnT.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_ATnT.jpg)
 
 *Tous droits intellectuels applicables appartiennent à leurs propriétaires respectifs. Le contenu ici présent est exclusivement mis à disposition dans le cadre du diplôme d'état RNCP35288 ou pour candidature à un emploi.*
 
@@ -29,7 +29,7 @@ Bonne exploration! :feet:
 # <p align="center">:uk: Deep learning</p>
 
 ### <p align="center">Jedha: AT&T project</p>
-![](/logos/Logo_Jedha.jpg) ![](/logos/Logo_ATnT.jpg)
+![](logos/Logo_Jedha.jpg) ![](logos/Logo_ATnT.jpg)
 
 *All applicable intellectual property rights belong to their rightful owners. The content herein displayed is exclusively provided for the sake of the French professional certification RNCP35288 or for job applications.*
 
