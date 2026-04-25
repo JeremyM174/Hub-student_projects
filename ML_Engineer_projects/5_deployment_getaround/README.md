@@ -11,17 +11,36 @@
 
 Bienvenue dans mon repo dédié au projet GetAround, pour la certification CDSD Jedha!
 
-Ce bref projet est consacré au déploiement d'application. Vous trouverez ici:
+### :car: Le thème
 
-* Le notebook .ipynb ayant entraîné le modèle,
-* Le modèle .joblib,
-* L'environnement .yaml pour le réentraîner,
-* Les dossiers incorporant les fichiers nécessaires au déploiement de l'app.
+Pour louer une voiture, les utilisateurs suivent un procédé de réservation puis de retour du véhicule propre à la plateforme, où le contrat liant chaque partie peut prendre diverses formes.
+
+Cependant, le service client évoque le mécontentement évident aussi bien des clients que des propriétaires lors de réservations en chaîne avec un retour en retard du véhicule, impactant inévitablement la prochaine location - au point d'entraîner parfois des annulations ou même des litiges lorsque les parties prenantes se rencontrent.
+
+### :dart: L'objectif
+
+Pour mitiger l'impact de tels phénomènes, l'entreprise décide d'implémenter un délai minimal entre deux réservations consécutives. S'il s'agit d'une solution partielle pour la satisfaction client, les revenus générés pour les propriétaires comme la plateforme s'en ressentiront: un équilibre doit être trouvé.
+
+Notre product owner nous sollicite pour mieux cerner l'impact de chaque créneau espaçant deux réservations, ainsi que l'impact selon le format du contrat de réservation (avec ou sans rencontre entre le conducteur et le propriétaire).
+
+### :boxing_glove: Les challenges
+
+* Fournir des dashboards d'analyse business,
+
+* Servir une API permettant la prédiction de tarifs de réservation selon la fiche technique du véhicule,
+
+* Fournir la documentation de cette même API.
+
+Retrouvez les liens dans l'encart "Tip" ci-dessous!
+
+### :grey_question: Le fonctionnement
+
+Veuillez vous reporter au dossier `docs`, expliquant le contenu de ce repo (disponible en :uk: anglais uniquement).
 
 Bonne exploration! :feet:
 
 > [!TIP]
-> Vous parviendrez sous [ce lien](https://mevelios-getaround-projectm174.hf.space) produit par HuggingFace au dashboard de l'application. Vous trouverez également sous [cet autre lien](https://mevelios-getaround-projectn174.hf.space/docs) la documentation associée à son API!
+> Vous parviendrez sous [ce lien](https://mevelios-getaround-projectm174.hf.space) produit par HuggingFace au dashboard de l'application. Vous trouverez également sous [cet autre lien](https://mevelios-getaround-projectn174.hf.space/docs) la documentation associée à son API; veuillez noter cependant que le service d'hébergement peut nécessiter une minute pour redémarrer, puisqu'il tourne sur des ressources gratuites!
 
 
 ---
@@ -36,14 +55,33 @@ Bonne exploration! :feet:
 
 Welcome to my repository dedicated to the GetAround project, for Jedha's certification!
 
-This short project is dedicated to application deployment. You may find here:
+### :car: The theme
 
-* The .ipynb notebook which trained the model,
-* The .joblib model,
-* The .yaml environment to train it again,
-* The folders used to deploy the app.
+To rent a car, the users have to go through booking and returning processes following the platform's instructions, bound by contracts of varying formats.
+
+Still, the customer service reports the dissatisfaction from both customers and owners during consecutive rentals where the car is returned late, unavoidably impacting the next rental - so much that it leads either to cancellations, either to conflicts when involved parties may still meet.
+
+### :dart: The objectives
+
+In order to mitigate those issues, the company intends on introducing delays between consecutive rentals. Although it is a partial solution to customer dissatisfaction, it would also impact revenues for both the owners and the platform: we need the right trade-off.
+
+Our product owner still needs to decide which threshold makes for the best compromise on consecutive rentals, and would also like to better understand the impact depending the type of rental contract (with or without the driver and owner meeting).
+
+### :boxing_glove: The challenges
+
+* Provide dashboards with business analyses,
+
+* Serve an API enabling predictions of rental costs depending the vehicle specs,
+
+* Provide the documentation of this same API.
+
+Find the links to these resources in the "Tip" section below!
+
+### :grey_question: The functioning
+
+Please refer to the `docs` folder, detailing this repository's contents and the reasoning.
 
 Have fun exploring! :feet:
 
 > [!TIP]
-> Please use [this link](https://mevelios-getaround-projectm174.hf.space) produced by HuggingFace to access the app dashboard. You also can access through [this other link](https://mevelios-getaround-projectn174.hf.space/docs) the documentation associated to its API!
+> Please use [this link](https://mevelios-getaround-projectm174.hf.space) produced by HuggingFace to access the app dashboard. You also can access through [this other link](https://mevelios-getaround-projectn174.hf.space/docs) the documentation associated to its API; please note the hosting service may need to be restarted first, since it runs on free resources!
