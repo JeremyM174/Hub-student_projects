@@ -11,11 +11,27 @@
 
 Bienvenue dans mon repo dédié au projet AT&T, pour la certification CDSD Jedha!
 
-Ce bref projet est consacré au deep learning. Vous trouverez ici:
+### :iphone: Le thème
 
-* Le notebook .ipynb incluant l'ensemble du travail,
-* Le dataset .csv,
-* L'environnement .yaml pour exécuter à nouveau le notebook.
+Poids lourd des télécoms aux États-Unis, AT&T est constamment exposé au problème des spams dans le trafic de ses messages.
+
+Si l'entreprise parvient à marquer manuellement ces messages pour empêcher leur diffusion, elle cherche un moyen de détection automatisé pour faire face au volume.
+
+### :dart: L'objectif
+
+Produire un modèle capable de marquer ces fameux messages comme spam ou non, selon leur contenu.
+
+### :boxing_glove: Les challenges
+
+* Utiliser la technologie du deep learning
+
+* Explorer un dataset sans explication de sa structure
+
+* Présenter concrètement les performances de chaque modèle et leur impact sur les clients
+
+### :grey_question: Le fonctionnement
+
+Veuillez vous reporter au dossier `docs`, expliquant le contenu de ce repo (disponible en :uk: anglais uniquement).
 
 Bonne exploration! :feet:
 
@@ -35,11 +51,27 @@ Bonne exploration! :feet:
 
 Welcome to my repository dedicated to the AT&T project, for Jedha's certification!
 
-This short project is dedicated to deep learning. You may find here:
+### :iphone: The theme
 
-* The .ipynb notebook for this entire work,
-* The .csv dataset,
-* The .yaml environment backup would you run the notebook.
+AT&T is a multinational telecommunications holding company based in the United States, its customers being constantly exposed to the issue of spam messages.
+
+Although AT&T has been able to manually flag spam messages, the company is looking for an automated way to detect spams to deal with the traffic volume.
+
+### :dart: The objective
+
+Produce a spam detection model, marking messages when adequate depending on their content.
+
+### :boxing_glove: The challenges
+
+* Use deep learning technology
+
+* Explore a given dataset without details about its structure
+
+* Explain each model's performances and their impact on customers
+
+### :grey_question: The functioning
+
+Please refer to the `docs` folder, detailing this repository's contents and the reasoning.
 
 Have fun exploring! :feet:
 
