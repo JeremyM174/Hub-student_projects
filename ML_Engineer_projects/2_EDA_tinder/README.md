@@ -11,12 +11,27 @@
 
 Bienvenue dans mon repo dédié au projet Tinder, pour la certification CDSD Jedha!
 
-Ce bref projet est consacré à l'EDA, ou analyse exploratoire de données. Vous trouverez ici:
+### :busts_in_silhouette: Le thème
 
-* Le notebook .ipynb incluant les visualisations,
-* Le fichier .csv sourçant les données,
-* Le fichier .doc expliquant le contenu du .csv,
-* L'environnement .yaml vous permettant d'exécuter le .ipynb correctement.
+Application de rencontre, Tinder se retrouve dans une phase où de moins en moins de clients souhaitent se rencontrer à nouveau.
+
+L'équipe marketing souhaite donc comprendre quels critères amènent un second rendez-vous, en explorant des datasets produits lors d'évènements organisés par l'entreprise avec des volontaires.
+
+### :dart: L'objectif
+
+Produire des visualisations et statistiques descriptives pour comprendre ce qui amène les clients à se rencontrer une seconde fois.
+
+### :boxing_glove: Les challenges
+
+* Un dataset avec un nombre important de données manquantes
+
+* Un fichier explicatif parfois vague, et surtout incomplet
+
+* Des données collectées suivant des méthodes différentes dans le temps
+
+### :grey_question: Le fonctionnement
+
+Veuillez vous reporter au dossier `docs`, expliquant le contenu de ce repo (disponible en :uk: anglais uniquement).
 
 Bonne exploration! :feet:
 
@@ -33,11 +48,26 @@ Bonne exploration! :feet:
 
 Welcome to my repository dedicated to the Tinder project, for Jedha's certification!
 
-This short project is dedicated to EDA, or exploratory data analysis. You may find here:
+### :busts_in_silhouette: The theme
 
-* The .ipynb notebook including the visualizations,
-* The .csv file as data source,
-* The .doc file detailing the contents of our .csv,
-* The .yaml environment to properly run the .ipynb notebook.
+Tinder, an online dating application, is experiencing decreasing interest from their users in going on a second date.
+
+The marketing team wants to understand what makes people interested in each other, using datasets produced through events organized by the company with volunteers.
+
+### :dart: The objective
+
+Produce visualisations and descriptive statistics to understand what makes people interested in a second date.
+
+### :boxing_glove: The challenges
+
+* A dataset with a huge share of missing data
+
+* An incomplete accompanying file with vague explanations
+
+* Data gathered following different practices over time
+
+### :grey_question: The functioning
+
+Please refer to the `docs` folder, detailing this repository's contents and the reasoning.
 
 Have fun exploring! :feet:
