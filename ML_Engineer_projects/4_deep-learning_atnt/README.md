@@ -1,6 +1,6 @@
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]() [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]() [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]() [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)]() [![pyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]() [![openAI](https://img.shields.io/badge/OpenAI-4A4A55?style=for-the-badge&logo=openai)]() [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)]()
 
-*[English translation](#uk-machine-learning) follows below.*
+*[English translation](#uk-deep-learning) follows below.*
 
 # <p align="center">Certification CDSD - bloc 4 Deep learning :fr:</p>
 
