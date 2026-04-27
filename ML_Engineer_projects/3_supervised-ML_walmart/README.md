@@ -13,7 +13,7 @@ Bienvenue dans mon repo dédié au projet Walmart, pour la certification CDSD Je
 
 ### :shopping_cart: Le thème
 
-Chaîne multinationale de vente au détail basée aux États-Unis, Walmart souhaite faire usage de la data science afin de déterminer quels facteurs économiques influencent les ventes hebdomadaires, afin d'adapter en conséquence leurs campagnes marketing.
+Chaîne multinationale de vente au détail basée aux États-Unis, Walmart souhaite faire usage de la data science afin d'observer quels facteurs économiques influencent les ventes hebdomadaires, et disposer d'un modèle leur permettant d'estimer leurs futurs chiffres pour adapter en conséquence les campagnes marketing.
 
 ### :dart: L'objectif
 
@@ -21,11 +21,9 @@ Produire un modèle prédictif de vente, basé sur une régression régularisée
 
 ### :boxing_glove: Les challenges
 
-* Travailler un dataset où de certaines données sont inexploitables en l'état
+* Travailler un dataset où certaines données sont inexploitables en l'état
 
 * Se prémunir contre le surapprentissage
-
-* Identifier clairement les facteurs influençant les ventes hebdomadaires
 
 ### :grey_question: Le fonctionnement
 
@@ -48,7 +46,7 @@ Welcome to my repository dedicated to the Walmart project, for Jedha's certifica
 
 ### :shopping_cart: The theme
 
-Walmart Inc. is an American multinational retail corporation, interested in data science to better understand which economic indicators influence their weekly sales. Doing so would help the company with planning their future marketing campaigns.
+Walmart Inc. is an American multinational retail corporation, interested in data science to better understand which economic indicators influence their weekly sales. Producing a predictive model would let the company get an estimate of their future sales, to plan their future marketing campaigns.
 
 ### :dart: The objective
 
@@ -59,8 +57,6 @@ Produce a model to predict weekly sales, based on a regularized regression to de
 * Work on a dataset including data that cannot be used as-is
 
 * Fight against overfitting
-
-* Clearly identify the parameters influencing weekly sales
 
 ### :grey_question: The functioning
 
