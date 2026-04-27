@@ -28,7 +28,7 @@ Although the notebook can be read, here is the summary of its contents:
 
 * **EDA**
 
-Our dataset is made has 280 000+ lines. At first sight through a sample, we can notice two trends: younger people (below 50 y.o., sorry for those above) seem to be the ones subscribing to the newsletter, and the more pages an user visited, the more likely they are to subscribe.
+Our dataset has 280 000+ lines. At first sight through a sample, we can notice two trends: younger people (below 50 y.o., sorry for those above) seem to be the ones subscribing to the newsletter, and the more pages an user visited, the more likely they are to subscribe.
 
 SEO (Search Engine Optimization) seems to be the most used mean in reaching out to potential subscribers, while these people are found in the USA.
 
@@ -40,7 +40,9 @@ But this project is inspired by a challenge. How about pushing it in an attempt 
 
 Comes then a multimodel assessment, trying out every classifier model sklearn offers. Selecting the four best models from all these basic trainings, the four competitors are now thrown at Optuna in an attempt to identify the ideal hyperparameters!
 
-The outcome brings out two challengers: the classical Logistic Regression (LR) and the eXtreme Gradient Boosting Classifier (XGBC).  Pushing again further the hyperparameter tuning, this time these two are thrown into a GridSearch to carefully explore values.  Thus the champion rises: the XGBC model takes the crown with the best F1-score (0.9855) using weighted averages!
+The outcome brings out two challengers: the classical Logistic Regression (LR) and the eXtreme Gradient Boosting Classifier (XGBC).  
+Pushing again further the hyperparameter tuning, this time these two are thrown into a GridSearch to carefully explore values.  
+Thus the champion rises: the XGBC model takes the crown with the best F1-score (0.9855) using weighted averages!
 
 * **Main features**
 
