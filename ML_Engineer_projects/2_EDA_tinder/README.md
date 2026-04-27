@@ -62,7 +62,7 @@ Produce visualisations and descriptive statistics to understand what makes peopl
 
 * A dataset with a huge share of missing data
 
-* An incomplete accompanying file with vague explanations
+* An incomplete, sometimes vague file explaining the dataset
 
 * Data gathered following different practices over time
 
