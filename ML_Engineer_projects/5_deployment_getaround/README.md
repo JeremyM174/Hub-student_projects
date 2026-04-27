@@ -13,9 +13,11 @@ Bienvenue dans mon repo dédié au projet GetAround, pour la certification CDSD 
 
 ### :car: Le thème
 
-Pour louer une voiture, les utilisateurs suivent un procédé de réservation puis de retour du véhicule propre à la plateforme, où le contrat liant chaque partie peut prendre diverses formes.
+GetAround est une plateforme de location de voiture liant directement client et propriétaire, pour une durée locative complètement personnalisable.
 
-Cependant, le service client évoque le mécontentement évident aussi bien des clients que des propriétaires lors de réservations en chaîne avec un retour en retard du véhicule, impactant inévitablement la prochaine location - au point d'entraîner parfois des annulations ou même des litiges lorsque les parties prenantes se rencontrent.
+Pour louer une voiture, les utilisateurs suivent un procédé de réservation puis de retour du véhicule propre à la plateforme, où le contrat liant chaque partie prend essentiellement deux formes: l'une ("mobile agreement") impose une rencontre physique où chaque partie prenante signe un contrat sur le téléphone du propriétaire, l'autre ("connect") permet au conducteur de directement déverrouiller le véhicule avec son smartphone sans avoir à passer par le propriétaire.
+
+Cependant, le service client évoque le mécontentement évident aussi bien des clients que des propriétaires lors de réservations en chaîne avec un retour en retard du véhicule, impactant inévitablement la prochaine location - au point d'entraîner parfois des annulations voire même des litiges lorsque les parties prenantes se rencontrent.
 
 ### :dart: L'objectif
 
@@ -57,7 +59,9 @@ Welcome to my repository dedicated to the GetAround project, for Jedha's certifi
 
 ### :car: The theme
 
-To rent a car, the users have to go through booking and returning processes following the platform's instructions, bound by contracts of varying formats.
+GetAround is a car rental platform putting directly in relation the driver with the car owner, for a customizable rental duration.
+
+To rent a car, users have to go through booking and returning processes following the platform's instructions, bound by contracts of mostly two formats: the first ("mobile agreement") makes both driver and owner meet to sign the rental contract on the owner's smartphone, while the second ("connect") lets the driver directly open the car using their smartphone without meeting the owner.
 
 Still, the customer service reports the dissatisfaction from both customers and owners during consecutive rentals where the car is returned late, unavoidably impacting the next rental - so much that it leads either to cancellations, either to conflicts when involved parties may still meet.
 
