@@ -2,19 +2,19 @@
 
 Cette documentation part du principe que le lecteur sait ce qu'est Docker.
 
-1. ![Comprendre le système](#comprendre-le-système)  
-  1.1 ![Base de réflexion](#base-de-réflexion)  
-  1.2 ![La procédure d'ETL](#la-procédure-detl)  
-  1.3 ![Consommation & prédiction](#consommation--prédiction)
+1. [Comprendre le système](#comprendre-le-système)  
+  1.1 [Base de réflexion](#base-de-réflexion)  
+  1.2 [La procédure d'ETL](#la-procédure-detl)  
+  1.3 [Consommation & prédiction](#consommation--prédiction)
 
-2. ![Comment démarrer le système](#comment-démarrer-le-système)  
-  2.1 ![Pré-requis](#pré-requis)  
-  2.2 ![Démarrer Airflow](#démarrer-airflow)  
-  2.3 ![Ouvrir Airflow](#ouvrir-airflow)  
-  2.4 ![Lancer le système](#lancer-le-système)  
-  2.5 ![Vérifier les résultats](#vérifier-les-résultats)  
-  2.6 ![Arrêter/supprimer le projet](#arrêtersupprimer-le-projet)  
-  2.7 ![Limites](#limites)
+2. [Comment démarrer le système](#comment-démarrer-le-système)  
+  2.1 [Pré-requis](#pré-requis)  
+  2.2 [Démarrer Airflow](#démarrer-airflow)  
+  2.3 [Ouvrir Airflow](#ouvrir-airflow)  
+  2.4 [Lancer le système](#lancer-le-système)  
+  2.5 [Vérifier les résultats](#vérifier-les-résultats)  
+  2.6 [Arrêter/supprimer le projet](#arrêtersupprimer-le-projet)  
+  2.7 [Limites](#limites)
 
 ![schema_fr](infrastructure_schema.png)
 
