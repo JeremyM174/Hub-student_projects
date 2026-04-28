@@ -9,23 +9,36 @@
 
 Bienvenue dans mon repo dédié au projet de détection automatique de fraude, pour la certification AIA Jedha!
 
-Ce bref projet est consacré à la conception et mise en production d'une infrastructure automatisée incluant des pipelines pour la détection par IA de fraudes bancaires. Vous trouverez ici:
+### :money_with_wings: Le thème
 
-* Le notebook .ipynb incluant le travail sur le machine learning,
-* Le dossier `docs` expliquant la réflexion derrière ce système et comment le faire fonctionner,
-* Un guide d'instructions `.env_example.md` pour la création des variables confidentielles d'environnement,
-* Les dossiers `dags`, `data`, `logs` & `plugins` nécessaires au fonctionnement d'Airflow,
-* Les fichiers `Dockerfile`, `docker-compose.yaml` & `requirements.txt` pour déployer Airflow avec Docker,
-* Un exemple de réponse d'API `test_api.json` explicitant la donnée reçue alimentant ce système,
-* L'environnement .yml vous permettant d'exécuter le .ipynb correctement.
+Au sein de toutes les institutions financières, le thème de la fraude demeure un problème omniprésent: en 2019, la BCE (Banque Centrale Européenne) évaluait la fraude par carte bancaire à plus d'un milliard d'euros!
 
-> [!NOTE]
-> Ce projet s'attend à ce que vous soyez familier avec des outils tels Docker ou Airflow et leur installation/utilisation!
+Or, la data science peut se révéler être un puissant outil pour la combattre; au point d'en devenir un des motifs les plus fréquents d'y avoir recours. La difficulté cependant ne consiste pas seulement à concevoir un algorithme, mais aussi à s'en servir!
+
+### :dart: Les objectifs
+
+* Produire et présenter un système de détection de fraude fonctionnel basé sur le machine learning
+
+* Déclencher une alerte automatisée par mail lors de l'identification d'une fraude
+
+* Produire un rapport automatique quotidien contenant les données des transactions de la veille
+
+### :boxing_glove: Les challenges
+
+* Concevoir ce système de presque zéro, en ayant seulement un dataset pour l'entraînement du machine learning
+
+* Faire appel à une API simulant ces transactions et à un data warehouse sur le cloud, en prenant en compte leurs spécificités techniques
+
+* Orchestrer et tester de bout en bout ce système
+
+### :grey_question: Le fonctionnement
+
+Veuillez vous reporter au dossier `docs`, expliquant le contenu de ce repo.
+
+Bonne exploration! :feet:
 
 > [!WARNING]
 > Ce projet implique l'usage d'un outil en ligne sur le modèle économique du *freemium*, par conséquent il vous faudra créer votre propre compte sur le service impliqué et en gérer votre propre utilisation. Suivez attentivement les instructions du guide sur les variables confidentielles!
-
-Bonne exploration! :feet:
 
 
 ---
@@ -38,20 +51,33 @@ Bonne exploration! :feet:
 
 Welcome to my repository dedicated to the automatic fraud detection project, for Jedha's certification!
 
-This short project is dedicated to producing & deploying pipelines to automate fraud detection with AI on transactions. You may find here:
+### :money_with_wings: The theme
 
-* The .ipynb notebook for the machine learning part,
-* The `docs` folder detailing the thinking behind this system and how to run it,
-* An instructions file `.env_example.md` to create your confidential environment variables,
-* The `dags`, `data`, `logs` & `plugins` folders required to properly run Airflow,
-* The `Dockerfile`, `docker-compose.yaml` & `requirements.txt` files to deploy Airflow with Docker,
-* An example of API reply `test_api.json` showing the data format feeding this system,
-* The .yml environment to properly run the .ipynb notebook.
+Fraud is a huge issue among financial institutions. In 2019, the ECB (European Central Bank) estimated that fraudulent credit card transactions amounted more 1 billion of euros!
 
-> [!NOTE]
-> This project expects you to be familiar with tools like Docker or Airflow and their installation/use!
+However, data science can prove to be a powerful tool against fraud; so much that it actually is one of the most frequent use cases for this domain. Still, the difficulty does not lie only in building an algorithm, but also in putting it to actual use!
+
+### :dart: The objectives
+
+* Produce and present an automatic fraud detection system based on machine learning
+
+* Trigger an automated alert by mail upon identification of a fraud
+
+* Produce an automated daily report detailing the previous day's transaction data
+
+### :boxing_glove: The challenges
+
+* Design this system almost from scratch, only starting with a training dataset for machine learning
+
+* Call an API emulating transactions and a cloud data warehouse, while considering their technical specs
+
+* Orchestrate and run unit testing for the entire system to make sure it runs from start to finish
+
+### :grey_question: The functioning
+
+Please refer to the `docs` folder, detailing this repository's contents and the reasoning.
+
+Have fun exploring! :feet:
 
 > [!WARNING]
 > This project involves an online tool on a *freemium* economical model, hence the need for the user to create their own account on the related service and monitor their own use of it. Make sure to follow the instructions given in the environment template file!
-
-Have fun exploring! :feet:
