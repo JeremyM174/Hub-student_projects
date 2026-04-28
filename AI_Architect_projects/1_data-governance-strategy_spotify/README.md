@@ -11,7 +11,25 @@
 
 Bienvenue dans mon repo dédié au projet Spotify pour la certification AIA Jedha!
 
-Ce projet essentiellement littéraire est consacré à la conception d'une politique de gouvernance des données. Vous trouverez ici deux dossiers dans leurs langues respectives (Français & Anglais) selon votre choix.
+### :headphones: Le thème
+
+Leader de la diffusion de musique par streaming, Spotify exprime le besoin de réviser le cadre de ses pratiques en matière de données utilisateur pour s'assurer de sa conformité avec les différentes législations en vigueur autour de son activité.
+
+### :dart: L'objectif
+
+Concevoir et piloter une politique de gouvernance des données s'assurant de la conformité avec des réglementations telles la RGPD, CCPA ou PCI-DSS, tout en améliorant la qualité des données et l'efficacité opérationnelle des équipes.
+
+### :boxing_glove: Les challenges
+
+* Partir d'un cas réel où l'entreprise fut sanctionnée pour sa non-conformité
+
+* S'intéresser à des thèmes au-delà de la pure donnée (cybersécurité, formation...)
+
+* Naviguer parmi de nombreux documents et réglementations pour présenter une politique cohérente et réaliste
+
+### :grey_question: Le fonctionnement
+
+Ce projet reste essentiellement littéraire. Vous trouverez ici deux dossiers dans leurs langues respectives (Français & Anglais), la plupart des documents de travail sur lesquels se base ce projet demeurant inaccessibles par souci de confidentialité.
 
 Bonne exploration! :feet:
 
@@ -30,6 +48,24 @@ Bonne exploration! :feet:
 
 Welcome to my repository dedicated to the Spotify project, for Jedha's certification!
 
-This short project is dedicated to designing a data governance strategy. Since the content displayed here is mostly literal, you may find two folders matching their respective languages depending your favorite (English & French).
+### :headphones: The theme
+
+Spotify, the leading music streaming service, wants to revise its data practices to ensure compliance with the various regulations related to its activities.
+
+### :dart: The objective
+
+Design and pilot a data governance framework ensuring compliance with regulations like GDPR, CCPA or PCI-DSS, while improving data quality and operational efficiency.
+
+### :boxing_glove: The challenges
+
+* Start from a real use case where the company was penalized for not being compliant
+
+* Show interest in subjects going beyond data (cybersecurity, training courses...)
+
+* Find your way through many documents and regulations to present a cohesive and realistic framework
+
+### :grey_question: The functioning
+
+This project is meant to be read. You will find here two folders in their respective languages (English & French), although several working files this project is based are not made available for confidentiality as this is *only* meant to be a presentation.
 
 Have fun exploring! :feet:
