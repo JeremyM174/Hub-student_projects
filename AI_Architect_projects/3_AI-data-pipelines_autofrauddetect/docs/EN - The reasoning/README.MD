@@ -2,19 +2,19 @@
 
 Please note this documentation expects the reader to at least be aware of what Docker is.
 
-\1. ![The reasoning](#understanding-the-system)  
-1.1 ![Line of thought](#line-of-thought)  
-1.2 ![The ETL process](#the-etl-process)  
-1.3 ![Data consumption & prediction](#data-consumption--prediction)
+1. ![The reasoning](#understanding-the-system)  
+  1.1 ![Line of thought](#line-of-thought)  
+  1.2 ![The ETL process](#the-etl-process)  
+  1.3 ![Data consumption & prediction](#data-consumption--prediction)
 
-\2. ![How to run it](#how-to-run-the-system)  
-2.1 ![Requirements](#requirements)  
-2.2 ![Starting Airflow](#starting-airflow)  
-2.3 ![Accessing Airflow](#accessing-airflow)  
-2.4 ![Running the system](#running-the-system)  
-2.5 ![Checking the results](#checking-the-results)  
-2.6 ![Shutting down/deleting the project](#shutting-downdeleting-the-project)  
-2.7 ![Limitations](#limitations)
+2. ![How to run it](#how-to-run-the-system)  
+  2.1 ![Requirements](#requirements)  
+  2.2 ![Starting Airflow](#starting-airflow)  
+  2.3 ![Accessing Airflow](#accessing-airflow)  
+  2.4 ![Running the system](#running-the-system)  
+  2.5 ![Checking the results](#checking-the-results)  
+  2.6 ![Shutting down/deleting the project](#shutting-downdeleting-the-project)  
+  2.7 ![Limitations](#limitations)
 
 ---
 
