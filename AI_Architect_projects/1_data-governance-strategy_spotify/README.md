@@ -29,7 +29,7 @@ Concevoir et piloter une politique de gouvernance des données s'assurant de la 
 
 ### :grey_question: Le fonctionnement
 
-Ce projet reste essentiellement littéraire. Vous trouverez ici deux dossiers dans leurs langues respectives (Français & Anglais), la plupart des documents de travail sur lesquels se base ce projet demeurant inaccessibles par souci de confidentialité.
+Ce projet reste essentiellement littéraire. Vous trouverez ici le même travail traduit dans deux langues (Français & Anglais), la plupart des documents sur lesquels se base ce projet demeurant inaccessibles par souci de confidentialité.
 
 Bonne exploration! :feet:
 
@@ -66,6 +66,6 @@ Design and pilot a data governance framework ensuring compliance with regulation
 
 ### :grey_question: The functioning
 
-This project is meant to be read. You will find here two folders in their respective languages (English & French), although several working files this project is based are not made available for confidentiality as this is *only* meant to be a presentation.
+This project is meant to be read. You will find the same work translated in two languages (English & French), although several working files this project is based on are not made available for confidentiality since this is *only* meant to be a presentation.
 
 Have fun exploring! :feet:
